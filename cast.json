@@ -1,0 +1,17 @@
+{
+	"cast": [
+		{
+			"vrcName": "すとあい",
+			"castName": "すとあい",
+			"type": "いちゃいちゃお喋り",
+			"profile": "テスト",
+			"panelId": 0
+		},
+		{
+			"vrcName": "Swift-Daken",
+			"castName": "駄犬",
+			"type": "甘やかし＆溶かし",
+			"profile": "テスト2",
+			"panelId": 1
+		},
+	
