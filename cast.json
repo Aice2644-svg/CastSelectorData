@@ -3,16 +3,107 @@
     {
       "vrcName": "すとあい",
       "castName": "すとあい",
-      "type": "いちゃいちゃお喋り",
-      "profile": "テスト",
+      "type": "お喋り＆イチャイチャ",
+      "profile": "楽しい時間を過ごせたら嬉しいな",
       "panelId": 0
     },
     {
       "vrcName": "Swift-Daken",
       "castName": "駄犬",
       "type": "甘やかし＆溶かし",
-      "profile": "テスト2",
+      "profile": "優しい声でとても落ち着きます",
       "panelId": 1
+    },
+    {
+      "vrcName": "Nagotzi",
+      "castName": "なご",
+      "type": "お喋り",
+      "profile": "負けないが？",
+      "panelId": 2
+    },
+    {
+      "vrcName": "きしどー",
+      "castName": "きしどー",
+      "type": "元気接客＆イチャイチャ",
+      "profile": "うお～～～～～！！",
+      "panelId": 3
+    },
+    {
+      "vrcName": "りかるるか",
+      "castName": "りかるるか",
+      "type": "えさ",
+      "profile": "優しく食べてね",
+      "panelId": 4
+    },
+    {
+      "vrcName": "珈白こち",
+      "castName": "こち",
+      "type": "お喋り＆イチャイチャ",
+      "profile": "プロフィール",
+      "panelId": 5
+    },
+    {
+      "vrcName": "ぽん！！",
+      "castName": "ぽん！！",
+      "type": "イチャイチャ",
+      "profile": "弱くないもん！！！！",
+      "panelId": 6
+    },
+    {
+      "vrcName": "みそぽぬん！",
+      "castName": "みそぽぬん！",
+      "type": "イチャイチャ",
+      "profile": "僕と一緒に沢山いちゃいちゃしようね♡",
+      "panelId": 7
+    },
+    {
+      "vrcName": "つきなみゃ",
+      "castName": "つきなみゃ",
+      "type": "お喋り＆イチャイチャ",
+      "profile": "なみゃだよ～～～",
+      "panelId": 8
+    },
+    {
+      "vrcName": "ゆき_yuki43",
+      "castName": "ゆき",
+      "type": "イチャイチャ",
+      "profile": "ゆきがさいきょーです",
+      "panelId": 9
+    },
+  {
+      "vrcName": "Semiro",
+      "castName": "Semiro",
+      "type": "イチャイチャ",
+      "profile": "男の子の僕とイチャイチャしたいんですか～？",
+      "panelId": 10
+    },
+    {
+      "vrcName": "くろみつ_chro32",
+      "castName": "くろみつ",
+      "type": "酒飲み、わんこ",
+      "profile": "わんわん",
+      "panelId": 11
+    },
+    {
+      "vrcName": "三下のこ",
+      "castName": "三下のこ",
+      "type": "溶かし＆イチャイチャ",
+      "profile": "おはのこ～～～",
+      "panelId": 12
+    },
+    {
+      "vrcName": "ぱぷりか",
+      "castName": "ぱぷりか",
+      "type": "ボーイ",
+      "profile": "ぱぷりかちゃん可愛い",
+      "panelId": 13
+    },
+    {
+      "vrcName": "CaroL_27",
+      "castName": "CaroL",
+      "type": "ボーイ",
+      "profile": "キャロルちゃん可愛い",
+      "panelId": 14
     }
-  ]
+ ]
 }
