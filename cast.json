@@ -57,53 +57,39 @@
       "panelId": 7
     },
     {
-      "vrcName": "つきなみゃ",
-      "castName": "つきなみゃ",
-      "type": "お喋り＆イチャイチャ",
-      "profile": "なみゃだよ～～～",
-      "panelId": 8
-    },
-    {
       "vrcName": "ゆき_yuki43",
       "castName": "ゆき",
       "type": "イチャイチャ",
       "profile": "ゆきがさいきょーです",
-      "panelId": 9
+      "panelId": 8
     },
   {
       "vrcName": "Semiro",
       "castName": "Semiro",
       "type": "イチャイチャ",
       "profile": "男の子の僕とイチャイチャしたいんですか～？",
-      "panelId": 10
+      "panelId": 9
     },
     {
       "vrcName": "くろみつ_chro32",
       "castName": "くろみつ",
       "type": "酒飲み、わんこ",
       "profile": "わんわん",
-      "panelId": 11
-    },
-    {
-      "vrcName": "三下のこ",
-      "castName": "三下のこ",
-      "type": "溶かし＆イチャイチャ",
-      "profile": "おはのこ～～～",
-      "panelId": 12
+      "panelId": 10
     },
     {
       "vrcName": "ぱぷりか",
       "castName": "ぱぷりか",
       "type": "ボーイ",
       "profile": "ぱぷりかちゃん可愛い",
-      "panelId": 13
+      "panelId": 11
     },
     {
       "vrcName": "CaroL_27",
       "castName": "CaroL",
       "type": "ボーイ",
       "profile": "キャロルちゃん可愛い",
-      "panelId": 14
+      "panelId": 11
     },
  ]
 }
