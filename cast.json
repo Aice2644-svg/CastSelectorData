@@ -1,12 +1,12 @@
 {
   "cast": [
-    {
-      "vrcName": "すとあい",
-      "castName": "すとあい",
-      "type": "お喋り＆イチャイチャ",
-      "profile": "楽しい時間を過ごせたら嬉しいな",
-      "panelId": 0
-    },
+   {
+  "vrcName": "TEST_CAST",
+  "castName": "すとあい",
+  "type": "お喋り＆イチャイチャ",
+  "profile": "楽しい時間を過ごせたら嬉しいな",
+  "panelId": 0
+}
     {
       "vrcName": "Swift-Daken",
       "castName": "駄犬",
