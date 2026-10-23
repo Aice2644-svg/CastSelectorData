@@ -1,0 +1,11 @@
+{
+  "cast": [
+    {
+      "vrcName": "TESTNAME",
+      "castName": "テストキャスト",
+      "type": "お喋り",
+      "profile": "JSON読み込みテスト",
+      "panelId": 0
+    }
+  ]
+}
